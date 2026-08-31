@@ -1,8 +1,12 @@
-## Hi! My name is Vincent, and welcome to my creative space 😉
+# Hi! My name is Vincent, and welcome to my creative space 😉
 
-### I am currently a graduate with a undergrad degree in Computer Science and a curiosity for learning Information Technology. 
+I am currently a graduate with an undergrad degree in Computer Science and a deep curiosity for learning Information Technology. 
 
-### I am an aspiring software engineer and cloud architect.
+*I am an aspiring software engineer and cloud architect.*
+
+---
+
+## 🛠️ Core Tech Stack
 
 **Languages:** JavaScript, Python, HTML, CSS, C++, Kotlin <br>
 <img src="https://skillicons.dev/icons?i=js,python,html,css,cpp,kotlin&theme=light" />
@@ -30,3 +34,5 @@
 <br>
 
 **Machine Learning:** Google Colab <br>
+
+---
