@@ -8,7 +8,7 @@ I am currently a graduate with an undergrad degree in Computer Science and a dee
 
 ## 🚀 Featured Projects
 
-### 📚 [Academic RAG Assistant](https://github.com/YOUR-USERNAME/academic-rag-assistant)
+### 📚 [Academic RAG Assistant](https://github.com/vincentmutua/academic-rag-assistant)
 A serverless Retrieval-Augmented Generation (RAG) pipeline that transforms static educational PDFs into an interactive, personalized AI tutor and active-recall revision planner. 
 * **Tech Stack:** Python, LangChain, FAISS, Google Gemini (3.6 Flash), HuggingFace
 * **Impact:** Solves "study paralysis" by automatically generating active-recall schedules, and defeats "one-size-fits-all" learning by explaining complex programming paradigms using personalized analogies.
