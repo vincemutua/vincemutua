@@ -5,8 +5,9 @@
 ### I am an aspiring software engineer and cloud architect.
 
 #### Tech Stack Knowledge
-**Languages:** JavaScript, Python, HTML, CSS, Kotlin
-**Software Application Frameworks:** Flutter, React
-**Cloud Development Tech:** Amazon Web Services (AWS), Google Cloud, Docker
-**Version Control & Collaboration:** Git, GitHub
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,kotlin,mysql,flutter,aws,gcp,docker,git&theme=light" />
+  </a>
+</div>
 
