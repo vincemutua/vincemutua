@@ -1,8 +1,6 @@
 # Hi! My name is Vincent, and welcome to my creative space 😉
 
-I am currently a graduate with an undergrad degree in Computer Science and a deep curiosity for learning Information Technology. 
-
-*I am an aspiring software engineer and cloud architect.*
+Cybersecurity Analyst (Entry-Level) | Cloud Security · AWS · Python · SIEM | IBM Hybrid Cloud Architect | Aspiring Cloud Architect
 
 ---
 
